@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "momolandingpage",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
